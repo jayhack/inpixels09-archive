@@ -1,0 +1,84 @@
+{
+  "ID": 20,
+  "URL": "https://inpixels09.wordpress.com/2009/09/11/20/",
+  "author": {
+    "ID": 9663724,
+    "URL": "",
+    "avatar_URL": "https://2.gravatar.com/avatar/259b5d570a5771375b3a077b4e65b8e5a9dd08da6e971bd8c3763c0c58c74f41?s=96&d=identicon&r=G",
+    "email": false,
+    "first_name": "Jay",
+    "last_name": "Hack",
+    "login": "intanettohack",
+    "name": "Jay",
+    "nice_name": "intanettohack",
+    "profile_URL": "https://gravatar.com/intanettohack",
+    "site_ID": 9334702
+  },
+  "categories": {
+    "Uncategorized": {
+      "ID": 1,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "Uncategorized",
+      "parent": 0,
+      "post_count": 26,
+      "slug": "uncategorized"
+    }
+  },
+  "content": "<p>Now, I have had a while to settle in to my family, house and location- the furthest you can get from the sea, dead center of honshu, the main island of Japan. I stepped off the train and noticed that the entire town is surrounded by jagged mountains, so any way i look, nature seranades me. they are beautiful. I am living in Toyoshina, Azumino-shi, a town in Nagano prefecture of about 100k- looking around, from any one point, on the other hand, you might think it was populated by about 200 people and twice that in rice fields. the Japanese system of &#8216;city planning&#8217; is different. there is no downtown, just varying population densities. my house, for instance, is surrounded by rice fields, but a 5 minute bike ride takes me to a crowded as hell station. there are small veins of busy business districts runing here and there, with large patches of green inbetween, carrying on throughout the entire valley.</p>\n<p>were you to climb to the top of a mountain and look down, i bet Azumino-shi would look like a miscolored diagram of human tissue- something you stare at in 9th grade biology class&#8230; </p>\n<p>my family is fantastic. my sister, misaki, spent a year in stockton, california and has great japanafornian english slang. shes extremely bright and energetic, in&#8230; stark contrast to others. she is japanese girly.  it makes the 40+ min journey to school fun.<br />\nmy little brother, shun, is shy but sweet and tries pretty earnestly to speak in english with me. he seems like a pretty smart kid, and loves to throw around the football. good times.<br />\nmy mom and dad are both great, as well. i still dont really understand what the dad does exactly,(checking wether or not animals are safe to eat?) but hes an eccentric insect-enthusiast who works in the rice fields in his free time and is a really nice guy. the mom is a secretary, but really does make an effort for her kids. they are adorable together&#8230;<br />\nso my name for six months, as of yesterday, when i wrote it on a chemistry test, is jiei maruyama. (pronounced [G]-[A]-[E] maruyama.)</p>\n",
+  "date": "2009-09-11T13:10:33+00:00",
+  "excerpt": "<p>Now, I have had a while to settle in to my family, house and location- the furthest you can get from the sea, dead center of honshu, the main island of Japan. I stepped off the train and noticed that the entire town is surrounded by jagged mountains, so any way i look, nature seranades [&hellip;]</p>\n",
+  "modified": "2009-10-29T12:20:30+00:00",
+  "slug": "20",
+  "tags": {
+    "azumino": {
+      "ID": 8376486,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:azumino/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:azumino",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "azumino",
+      "post_count": 1,
+      "slug": "azumino"
+    },
+    "home life": {
+      "ID": 5782,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:home-life/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:home-life",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "home life",
+      "post_count": 1,
+      "slug": "home-life"
+    },
+    "nagano": {
+      "ID": 276489,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:nagano/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:nagano",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "nagano",
+      "post_count": 1,
+      "slug": "nagano"
+    }
+  },
+  "title": "Azumino-shi, Nagano"
+}

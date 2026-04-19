@@ -1,0 +1,112 @@
+{
+  "ID": 242,
+  "URL": "https://inpixels09.wordpress.com/2009/12/18/%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%80%80%ef%bc%8d%e3%80%80found-the-poison-drank-it/",
+  "author": {
+    "ID": 9663724,
+    "URL": "",
+    "avatar_URL": "https://2.gravatar.com/avatar/259b5d570a5771375b3a077b4e65b8e5a9dd08da6e971bd8c3763c0c58c74f41?s=96&d=identicon&r=G",
+    "email": false,
+    "first_name": "Jay",
+    "last_name": "Hack",
+    "login": "intanettohack",
+    "name": "Jay",
+    "nice_name": "intanettohack",
+    "profile_URL": "https://gravatar.com/intanettohack",
+    "site_ID": 9334702
+  },
+  "categories": {
+    "Uncategorized": {
+      "ID": 1,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "Uncategorized",
+      "parent": 0,
+      "post_count": 26,
+      "slug": "uncategorized"
+    }
+  },
+  "content": "<p>I saw a friends post on facebook last night, after a phone call to my mom where she suggested i might start to ease back in to the ann arbor life. the friend said he was a fan of pokemon, a game we americans may remember from a few years back, which abruptly went out about the time i turned 9. 10 years back, we had just red and blue- that is, 150 friendly, cuddily pokemon, and you only needed one other friend or a bitch of a spoiling mom to collect them all. we spent our elementary school careers strategizing on how to beat the elite four, linking games with a cable (a physical, made-of-rubber-and-wire cable), and i remember getting a charizard trading card at a birthday party that brought my brother to tears. </p>\n<p>for years, the game lay in their basements while middle schoolers trashed it, like they had never loved it. we had sent it back to japan. but little did they know, it didnt need them to love it. it was still growing, gaining colors and expanding generations and bonus packs, where comic-book characters decorate pornography and every highschooler&#8217;s cellphone attaches to a chain, attached to a small, furry character. they were 493 strong, and i saw them on the shelf two weeks ago.</p>\n<p>this kid made some comment, 11 people responded below him and only one of them wasnt sentimental. it seems almost everyone has good memories, given the time they need to appreciate them. but they dont know pokemon&#8230; no, they dont know the pokemon like i do. they dont know pain-<em>have you ever seen a highschooler weep on losing a pokemon match, who stuffs his gameboy in his backpack and then sits alone? have you ever seen a grown man sitting on the floor of a train, huddled around his DS like it were his only source of heat!? since when is it an obligation to buy pokemon to fit in at the lunch table, since when did vocabulary rotate around imaginary species, since when did my love life become an affair with an role playing game!?</em><br />\ni was up until two every night last week, and im still not even half way through.</p>\n<p>so i wake up with my eyes sore sometimes, now. of frequent trips to the school library to skip classical japanese literature and history, more and more were turning into naps, until just recently. i closed my book and slept for the first three hours of school on tuesday and only woke up when the library teacher touched my arm. we talked over lunch that day, and i finished &#8216;a wild sheep chase&#8217; the next period. at her recommendation, ill be starting the wind-up bird chronicles, soon as i get this friggin game out of the way. just gotta beat that elite four.</p>\n<p>-J</p>\n",
+  "date": "2009-12-18T15:57:14+00:00",
+  "excerpt": "<p>I saw a friends post on facebook last night, after a phone call to my mom where she suggested i might start to ease back in to the ann arbor life. the friend said he was a fan of pokemon, a game we americans may remember from a few years back, which abruptly went out [&hellip;]</p>\n",
+  "modified": "2010-01-17T02:13:49+00:00",
+  "slug": "%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%80%80%ef%bc%8d%e3%80%80found-the-poison-drank-it",
+  "tags": {
+    "a wild sheep chase": {
+      "ID": 2250207,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:a-wild-sheep-chase/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:a-wild-sheep-chase",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "a wild sheep chase",
+      "post_count": 1,
+      "slug": "a-wild-sheep-chase"
+    },
+    "insomnia strikes... again": {
+      "ID": 30215186,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:insomnia-strikes-again/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:insomnia-strikes-again",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "insomnia strikes... again",
+      "post_count": 1,
+      "slug": "insomnia-strikes-again"
+    },
+    "librarian": {
+      "ID": 163040,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:librarian/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:librarian",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "librarian",
+      "post_count": 1,
+      "slug": "librarian"
+    },
+    "pokemon on trains": {
+      "ID": 30215185,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:pokemon-on-trains/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:pokemon-on-trains",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "pokemon on trains",
+      "post_count": 1,
+      "slug": "pokemon-on-trains"
+    },
+    "ポケットモンスターズ、pokemon": {
+      "ID": 30215184,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:%%e3%%83%%9d%%e3%%82%%b1%%e3%%83%%83%%e3%%83%%88%%e3%%83%%a2%%e3%%83%%b3%%e3%%82%%b9%%e3%%82%%bf%%e3%%83%%bc%%e3%%82%%ba%%e3%%80%%81pokemon/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:%%e3%%83%%9d%%e3%%82%%b1%%e3%%83%%83%%e3%%83%%88%%e3%%83%%a2%%e3%%83%%b3%%e3%%82%%b9%%e3%%82%%bf%%e3%%83%%bc%%e3%%82%%ba%%e3%%80%%81pokemon",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "ポケットモンスターズ、pokemon",
+      "post_count": 1,
+      "slug": "%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba%e3%80%81pokemon"
+    }
+  },
+  "title": "ポケモン　－　found the poison, drank it."
+}

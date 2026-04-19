@@ -1,0 +1,41 @@
+{
+  "ID": 16,
+  "URL": "https://inpixels09.wordpress.com/2009/09/06/%e6%97%a5%e6%9c%ac%e8%a3%bd/",
+  "author": {
+    "ID": 9663724,
+    "URL": "",
+    "avatar_URL": "https://2.gravatar.com/avatar/259b5d570a5771375b3a077b4e65b8e5a9dd08da6e971bd8c3763c0c58c74f41?s=96&d=identicon&r=G",
+    "email": false,
+    "first_name": "Jay",
+    "last_name": "Hack",
+    "login": "intanettohack",
+    "name": "Jay",
+    "nice_name": "intanettohack",
+    "profile_URL": "https://gravatar.com/intanettohack",
+    "site_ID": 9334702
+  },
+  "categories": {
+    "Uncategorized": {
+      "ID": 1,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "Uncategorized",
+      "parent": 0,
+      "post_count": 26,
+      "slug": "uncategorized"
+    }
+  },
+  "content": "<p>On the third day of our orientation in Harajuku, we split up into two groups to be taught survival japanese. My group was for the comptetent&#8230; one of us was half japanese and the rest had some idea what the hell was going on, some of the time. (I wasn&#8217;t the half-japanese one.) </p>\n<p>A small, prune-esque Japanese woman walked up to a stage in front of us four and spoke for an hour on the subject of Japanese innovation, or what Japan had to offer us. </p>\n<p>&#8216;Our land produces nothing but hot water,&#8217; she told us. So why is it the world&#8217;s second largest economy, with the 10th largest population? When soichiro honda first dissected the motorcycle, he took note of the parts then completely redesigned it to the model used today. when cameras came to japan, they were bricks&#8230; and, well, we have all seen Japanese cameras. anyone who has ever had desert in japan knows that the fruit is better- after ridiculous genetic breeding experiments, they arrived at an apple that grows once, on a tree that takes five years to come to maturity. they then cut that tree, and grow a new one. </p>\n<p>And so, the point she made was that in the absence of any mineral wealth, the japanese have flourished via innovation. she seemed extremely proud, pushing her shoulders up and together as she spoke- a pretty funny image, but I have a hell of a lot of respect for her, and for the japanese sense of pride im sure ill be seeing more of.</p>\n",
+  "date": "2009-09-06T10:25:09+00:00",
+  "excerpt": "<p>On the third day of our orientation in Harajuku, we split up into two groups to be taught survival japanese. My group was for the comptetent&#8230; one of us was half japanese and the rest had some idea what the hell was going on, some of the time. (I wasn&#8217;t the half-japanese one.) A small, [&hellip;]</p>\n",
+  "modified": "2009-09-08T12:56:58+00:00",
+  "slug": "%e6%97%a5%e6%9c%ac%e8%a3%bd",
+  "tags": {},
+  "title": "日本製"
+}

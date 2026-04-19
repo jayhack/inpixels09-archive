@@ -1,0 +1,70 @@
+{
+  "ID": 14,
+  "URL": "https://inpixels09.wordpress.com/2009/09/06/tokyo/",
+  "author": {
+    "ID": 9663724,
+    "URL": "",
+    "avatar_URL": "https://2.gravatar.com/avatar/259b5d570a5771375b3a077b4e65b8e5a9dd08da6e971bd8c3763c0c58c74f41?s=96&d=identicon&r=G",
+    "email": false,
+    "first_name": "Jay",
+    "last_name": "Hack",
+    "login": "intanettohack",
+    "name": "Jay",
+    "nice_name": "intanettohack",
+    "profile_URL": "https://gravatar.com/intanettohack",
+    "site_ID": 9334702
+  },
+  "categories": {
+    "Uncategorized": {
+      "ID": 1,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "Uncategorized",
+      "parent": 0,
+      "post_count": 26,
+      "slug": "uncategorized"
+    }
+  },
+  "content": "<p>Having Just arrived in Japan, I&#8217;m taking it all in.</p>\n<p>After 24 hours of transit, from Detroit to Chicago to San Francisco, four other Americans and I walked through customs into a sea of Japanese people. Narita could be the busiest airport I have ever seen. soon afterwards we took a two hour bus ride, all of it in dense city, to the heart of tokyo.</p>\n<p>Much to my dismay, we were given a 4 day orientation in the 1960s olympic village, right on the outskirts of a massive jungle in the middle of Tokyo&#8217;s Harajuku district. Along with two students from the Netherlands and two from india, it was mostly informational sessions and them explaining how we mustn&#8217;t tell dirty jokes in the middle of tea ceremonies&#8230;<br />\nbut I had a blast with them all, spending at least 40 minutes in the hot baths each night and throwing our cultures back and forth. I&#8217;d like to see the Netherlands some day.</p>\n<p>And now i know, I am the only exchange student in all of northern Nagano prefecture from YFU, and as far as I know, from any other program. We&#8217;ll see.</p>\n",
+  "date": "2009-09-06T10:16:37+00:00",
+  "excerpt": "<p>Having Just arrived in Japan, I&#8217;m taking it all in. After 24 hours of transit, from Detroit to Chicago to San Francisco, four other Americans and I walked through customs into a sea of Japanese people. Narita could be the busiest airport I have ever seen. soon afterwards we took a two hour bus ride, [&hellip;]</p>\n",
+  "modified": "2009-10-29T12:19:42+00:00",
+  "slug": "tokyo",
+  "tags": {
+    "Tokyo": {
+      "ID": 10466,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:tokyo/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:tokyo",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "Tokyo",
+      "post_count": 4,
+      "slug": "tokyo"
+    },
+    "exchange": {
+      "ID": 14014,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:exchange/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:exchange",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "exchange",
+      "post_count": 1,
+      "slug": "exchange"
+    }
+  },
+  "title": "Tokyo"
+}

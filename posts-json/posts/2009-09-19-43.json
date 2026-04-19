@@ -1,0 +1,112 @@
+{
+  "ID": 43,
+  "URL": "https://inpixels09.wordpress.com/2009/09/19/43/",
+  "author": {
+    "ID": 9663724,
+    "URL": "",
+    "avatar_URL": "https://2.gravatar.com/avatar/259b5d570a5771375b3a077b4e65b8e5a9dd08da6e971bd8c3763c0c58c74f41?s=96&d=identicon&r=G",
+    "email": false,
+    "first_name": "Jay",
+    "last_name": "Hack",
+    "login": "intanettohack",
+    "name": "Jay",
+    "nice_name": "intanettohack",
+    "profile_URL": "https://gravatar.com/intanettohack",
+    "site_ID": 9334702
+  },
+  "categories": {
+    "Uncategorized": {
+      "ID": 1,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/categories/slug:uncategorized",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "Uncategorized",
+      "parent": 0,
+      "post_count": 26,
+      "slug": "uncategorized"
+    }
+  },
+  "content": "<p>I told a friend around a week before leaving about a vision i had:<br />\nwhen climbing a fog-shrouded mountain, i would arrive at the top and see a small, yet clean wooden shack. i would enter. i would see a wizened, shriveled blind man sitting and meditating, crosslegged on the floor. yet he would seem to rise above all else. he would educate me in the ways of the world, in lengthy, mystical proverbs, then i would climb down the fog-shrouded mountain and&#8230; and&#8230; well, i hadn&#8217;t figured that out yet. that was why i still wanted to do it.</p>\n<p>a few days ago, late in the day, the house was deserted. i live in a fairly rural area, in the sense that there is some distance between houses, usually rice fields. In my house, my dad&#8217;s dad chills at night but, even though hes been living for quite a while (79 ballpark), still works the rice fields all around us during the day. I decided id go to see what was up, so i got on my bike and rode over to his fields, about a kilometer away.</p>\n<p>i found the grandfather and a friend of his huddled in a densely smoke-filled shed, downing sake, smoking, eating grilled sheep and arguing and laughing in passionate and ridiculously dialect-ified japanese. they were totally cool with me being there and i spent almost an hour just talking with him and his friend about their histories, kareoke, rice fields and their more of their histories. seems they had both been living in the same houses since whenever, working the fields and growing their children, who now live next door(s). they loved talking just as much as i did, because, as i observe, few people still take them completely seriously. anymore. the kids dont talk to him at all, and only really grunt when asked questions, whereas the parents are respectful but uninterested. </p>\n<p>dont get me wrong, i think they respect their elders here, quite a bit in fact. but they are not respected for doing more of the same for longer, or having been around for an unreasonable amount of time, even though that is often the case; I was glad to find that, when speaking of the achievements of elders, people wont count the years but give praise to their life&#8217;s work. so far, its mostly been elderly school teachers. but hey, there are quite a few mountains in nagano.</p>\n<p>so no, im not counting that little run in as my enlightenment. im holding out for someone older, blinder and on a much higher mountain. more smoke, too. this time, though, id like it to be incense.</p>\n",
+  "date": "2009-09-19T16:14:12+00:00",
+  "excerpt": "<p>I told a friend around a week before leaving about a vision i had: when climbing a fog-shrouded mountain, i would arrive at the top and see a small, yet clean wooden shack. i would enter. i would see a wizened, shriveled blind man sitting and meditating, crosslegged on the floor. yet he would seem [&hellip;]</p>\n",
+  "modified": "2009-10-29T12:23:10+00:00",
+  "slug": "43",
+  "tags": {
+    "elders": {
+      "ID": 244824,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:elders/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:elders",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "elders",
+      "post_count": 1,
+      "slug": "elders"
+    },
+    "grandfather": {
+      "ID": 229863,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:grandfather/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:grandfather",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "grandfather",
+      "post_count": 1,
+      "slug": "grandfather"
+    },
+    "house party": {
+      "ID": 164797,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:house-party/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:house-party",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "house party",
+      "post_count": 1,
+      "slug": "house-party"
+    },
+    "mist": {
+      "ID": 11517,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:mist/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:mist",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "mist",
+      "post_count": 1,
+      "slug": "mist"
+    },
+    "sage": {
+      "ID": 53292,
+      "description": "",
+      "meta": {
+        "links": {
+          "help": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:sage/help",
+          "self": "https://public-api.wordpress.com/rest/v1.1/sites/9334702/tags/slug:sage",
+          "site": "https://public-api.wordpress.com/rest/v1.1/sites/9334702"
+        }
+      },
+      "name": "sage",
+      "post_count": 1,
+      "slug": "sage"
+    }
+  },
+  "title": "House Party"
+}

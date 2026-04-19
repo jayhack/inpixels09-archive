@@ -1,7 +1,7 @@
 ---
 title: "生け花, in Matsumoto"
 date: 2009-10-05T06:08:15+00:00
-slug: "gallery-ikebana"
+slug: "in-matsumoto"
 url: https://inpixels09.wordpress.com/2009/10/05/gallery-ikebana/
 author: "Jay"
 tags: ["flowers", "ikebana"]

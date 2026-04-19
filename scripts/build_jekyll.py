@@ -74,6 +74,16 @@ def transform(src_path: Path) -> tuple[str, str]:
         count=1,
     )
 
+    # Replace the WordPress percent-encoded `slug:` value with the ASCII slug.
+    # Jekyll's `:slug` permalink token reads this field, so leaving the original
+    # value would produce ugly URLs full of percent encoding.
+    text = re.sub(
+        r'(?m)^slug:\s*"[^"]*"',
+        f'slug: "{slug}"',
+        text,
+        count=1,
+    )
+
     return f"{date_part}-{slug}.md", text
 
 

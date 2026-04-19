@@ -1,7 +1,7 @@
 ---
 title: "festivities/the legacy of yoko ono"
 date: 2010-01-01T17:29:28+00:00
-slug: "festivitiesthe-legacy-of-yoko-ono"
+slug: "festivities-the-legacy-of-yoko-ono"
 url: https://inpixels09.wordpress.com/2010/01/01/festivitiesthe-legacy-of-yoko-ono/
 author: "Jay"
 tags: ["japanese people regretting things", "new years", "oshougatsu", "toshikoshi", "yoko ono", "\u5e74\u8d8a\u3057\u3001\u304a\u6b63\u6708"]

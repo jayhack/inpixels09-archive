@@ -1,7 +1,7 @@
 ---
 title: "ポケモン　－　found the poison, drank it."
 date: 2009-12-18T15:57:14+00:00
-slug: "%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%80%80%ef%bc%8d%e3%80%80found-the-poison-drank-it"
+slug: "found-the-poison-drank-it"
 url: https://inpixels09.wordpress.com/2009/12/18/%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%80%80%ef%bc%8d%e3%80%80found-the-poison-drank-it/
 author: "Jay"
 tags: ["a wild sheep chase", "insomnia strikes... again", "librarian", "pokemon on trains", "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u30ba\u3001pokemon"]

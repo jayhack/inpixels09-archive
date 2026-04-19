@@ -1,7 +1,7 @@
 ---
 title: "Warm Water in the Baths at 10:30"
 date: 2009-11-19T16:27:14+00:00
-slug: "warm-water-in-the-baths-at-1030"
+slug: "warm-water-in-the-baths-at-10-30"
 url: https://inpixels09.wordpress.com/2009/11/19/warm-water-in-the-baths-at-1030/
 author: "Jay"
 tags: ["hot baths", "naohiro", "onsen", "wooden sandals", "\u6e29\u6cc9"]

@@ -1,7 +1,7 @@
 ---
 title: "House Party"
 date: 2009-09-19T16:14:12+00:00
-slug: "43"
+slug: "house-party"
 url: https://inpixels09.wordpress.com/2009/09/19/43/
 author: "Jay"
 tags: ["elders", "grandfather", "house party", "mist", "sage"]

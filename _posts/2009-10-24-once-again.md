@@ -1,7 +1,7 @@
 ---
 title: "東京, once again"
 date: 2009-10-24T11:07:27+00:00
-slug: "%e6%9d%b1%e4%ba%ac-once-again"
+slug: "once-again"
 url: https://inpixels09.wordpress.com/2009/10/24/%e6%9d%b1%e4%ba%ac-once-again/
 author: "Jay"
 tags: ["Tokyo", "asian christianity", "cars", "motor show"]

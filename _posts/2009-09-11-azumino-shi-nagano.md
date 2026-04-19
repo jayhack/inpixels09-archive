@@ -1,7 +1,7 @@
 ---
 title: "Azumino-shi, Nagano"
 date: 2009-09-11T13:10:33+00:00
-slug: "20"
+slug: "azumino-shi-nagano"
 url: https://inpixels09.wordpress.com/2009/09/11/20/
 author: "Jay"
 tags: ["azumino", "home life", "nagano"]

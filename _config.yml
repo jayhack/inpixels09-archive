@@ -1,0 +1,41 @@
+title: in Pixels
+description: >-
+  An archive of inpixels09.wordpress.com — Jay Hack's blog from a 5.5-month
+  student exchange in Nagano, Japan (Sept 2009 – Jan 2010).
+author: Jay Hack
+baseurl: "/inpixels09-archive"
+url: "https://jayhack.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github, user_url: "https://github.com/jayhack/inpixels09-archive" }
+
+permalink: /:year/:month/:day/:slug/
+
+show_excerpts: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - scripts/
+  - mirror/
+  - posts-json/
+  - posts-md/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .gitignore
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

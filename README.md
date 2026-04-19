@@ -8,13 +8,20 @@ The archive captures all 26 published posts, their original rendered HTML
 pages, and every embedded image, in formats that should outlive the original
 site.
 
+**Rendered site:** <https://jayhack.github.io/inpixels09-archive/>
+
 ## What's in here
 
 ```
 .
 ├── README.md
+├── _config.yml                 # Jekyll config for GitHub Pages
+├── Gemfile                     # Pinned to the github-pages gem for local previews
+├── index.md, about.md          # Landing pages for the rendered site
+├── _posts/                     # Jekyll-friendly copies of each post (ASCII slugs, rewritten image paths)
 ├── scripts/
-│   └── build_archive.py        # Rebuilds posts-md/, mirror/, assets/ from posts-json/all-posts.json
+│   ├── build_archive.py        # Rebuilds posts-md/, mirror/, assets/ from posts-json/all-posts.json
+│   └── build_jekyll.py         # Rebuilds _posts/ from posts-md/
 ├── posts-json/
 │   ├── site.json               # Site metadata from the WordPress.com REST API
 │   ├── tags.json               # All tags
@@ -57,6 +64,19 @@ python3 scripts/build_archive.py
 
 The script is dependency-free (standard library only) and idempotent — it
 skips any HTML page or image that is already present on disk.
+
+To regenerate the Jekyll-friendly `_posts/` from the portable Markdown:
+
+```bash
+python3 scripts/build_jekyll.py
+```
+
+To preview the rendered Pages site locally:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
 ## Re-fetching from WordPress.com
 

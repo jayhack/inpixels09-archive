@@ -4,20 +4,11 @@ title: in Pixels
 list_title: Posts
 ---
 
-<p align="center">
-  <img src="{{ '/assets/site/inpixels-logo.gif' | relative_url }}"
-       alt="in Pixels — sakura tree logo"
-       width="320">
-</p>
+This is an archive of [**inpixels09.wordpress.com**](https://inpixels09.wordpress.com/) —
+a blog Jay Hack kept between September 2009 and January 2010 during a
+5.5-month student exchange in Nagano, Japan. The original WordPress site is
+still live, but everything here (text, comments, images) has been mirrored
+into a [git repo](https://github.com/jayhack/inpixels09-archive) so it
+outlives the host.
 
-<p>
-  <img src="{{ '/assets/site/header-banner.jpg' | relative_url }}"
-       alt="The mountains and rice fields of Nagano, Japan"
-       style="width:100%; max-width:100%; height:auto; display:block; margin: 1.5em 0;">
-</p>
-
-An archive of [inpixels09.wordpress.com](https://inpixels09.wordpress.com/),
-a blog Jay Hack wrote between September 2009 and January 2010 during a
-5.5-month student exchange in Nagano, Japan.
-
-26 posts in chronological order ↓
+All 26 posts are listed below in chronological order, oldest first.

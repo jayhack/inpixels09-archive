@@ -1,0 +1,103 @@
+---
+layout: default
+---
+
+<style>
+  /* Notion-style full-bleed cover header.
+     The negative left margin + 100vw width breaks out of the .wrapper
+     container so the image runs edge-to-edge across the viewport. */
+  .site-cover {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+    height: 320px;
+    margin-top: -30px;
+    margin-bottom: 1.5rem;
+    background-image: url("{{ '/assets/site/header-banner.jpg' | relative_url }}");
+    background-size: cover;
+    background-position: center 60%;
+    background-repeat: no-repeat;
+  }
+
+  @media (max-width: 600px) {
+    .site-cover { height: 200px; }
+  }
+
+  .site-sakura {
+    margin: 0 0 2rem 0;
+    text-align: center;
+  }
+  .site-sakura img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    /* The source GIF is only 300px wide; nearest-neighbor preserves the
+       sharp edges of the line-art logo when scaled up. */
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+
+  .site-intro {
+    margin: 0 0 3rem 0;
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+
+  /* Tighter, archive-style post list. */
+  .archive-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .archive-list li {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid #eee;
+  }
+  .archive-list .post-meta {
+    display: inline-block;
+    width: 7em;
+    color: #828282;
+    font-size: 0.9rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .archive-list .post-link {
+    font-size: 1.05rem;
+  }
+  @media (max-width: 600px) {
+    .archive-list .post-meta { display: block; width: auto; }
+  }
+</style>
+
+<div class="site-cover" role="img"
+     aria-label="The mountains and rice fields of Nagano, Japan"></div>
+
+<div class="site-sakura">
+  <img src="{{ '/assets/site/inpixels-logo.gif' | relative_url }}"
+       alt="in Pixels — sakura tree logo">
+</div>
+
+{%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+<div class="site-intro">
+  {{ content }}
+</div>
+
+<h2 id="posts">{{ page.list_title | default: "Posts" }}</h2>
+
+{%- if site.posts.size > 0 -%}
+  <ul class="archive-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in site.posts reversed -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}

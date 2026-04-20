@@ -22,6 +22,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 ALL_POSTS = ROOT / "posts-json" / "all-posts.json"
+ALL_COMMENTS = ROOT / "posts-json" / "all-comments.json"
 POSTS_JSON_DIR = ROOT / "posts-json" / "posts"
 POSTS_MD_DIR = ROOT / "posts-md"
 MIRROR_DIR = ROOT / "mirror"
@@ -213,7 +214,24 @@ def localize_assets(markdown: str, slug: str) -> tuple[str, list[str]]:
 def build() -> None:
     data = json.loads(ALL_POSTS.read_text())
     posts = sorted(data.get("posts", []), key=lambda p: p["date"])
-    print(f"Building archive for {len(posts)} posts...")
+
+    # Group comments by post ID so each post's Markdown can include them inline.
+    comments_by_post: dict[int, list[dict]] = {}
+    if ALL_COMMENTS.exists():
+        cdata = json.loads(ALL_COMMENTS.read_text())
+        for c in cdata.get("comments", []):
+            pid = (c.get("post") or {}).get("ID")
+            if pid is not None:
+                comments_by_post.setdefault(pid, []).append(c)
+        # Show oldest comments first under each post.
+        for pid, lst in comments_by_post.items():
+            lst.sort(key=lambda c: c.get("date", ""))
+        print(
+            f"Building archive for {len(posts)} posts and "
+            f"{sum(len(v) for v in comments_by_post.values())} comments..."
+        )
+    else:
+        print(f"Building archive for {len(posts)} posts (no comments file found)...")
 
     index_lines = ["# in Pixels — archive index", "", "Posts in chronological order:", ""]
 
@@ -237,6 +255,7 @@ def build() -> None:
         cats = sorted((post.get("categories") or {}).keys())
         author = (post.get("author") or {}).get("name", "")
 
+        post_comments = comments_by_post.get(post["ID"], [])
         front = [
             "---",
             f'title: "{title.replace(chr(34), chr(39))}"',
@@ -246,6 +265,7 @@ def build() -> None:
             f'author: "{author}"',
             f"tags: [{', '.join(json.dumps(t) for t in tags)}]",
             f"categories: [{', '.join(json.dumps(c) for c in cats)}]",
+            f"comment_count: {len(post_comments)}",
             "---",
             "",
             f"# {title}",
@@ -254,7 +274,26 @@ def build() -> None:
             "",
             "",
         ]
-        (POSTS_MD_DIR / f"{base}.md").write_text("\n".join(front) + body_md, encoding="utf-8")
+
+        comments_md = ""
+        if post_comments:
+            lines = ["", "---", "", f"## Comments ({len(post_comments)})", ""]
+            for c in post_comments:
+                cauth = (c.get("author") or {}).get("name") or "anonymous"
+                cdate = (c.get("date") or "")[:10]
+                body = html_to_markdown(c.get("content", "")).strip()
+                # Indent each line so the comment renders as a Markdown blockquote.
+                quoted = "\n".join(f"> {ln}" if ln else ">" for ln in body.splitlines())
+                lines.append(f"**{cauth}** — {cdate}")
+                lines.append("")
+                lines.append(quoted)
+                lines.append("")
+            comments_md = "\n".join(lines) + "\n"
+
+        (POSTS_MD_DIR / f"{base}.md").write_text(
+            "\n".join(front) + body_md + comments_md,
+            encoding="utf-8",
+        )
 
         # 3. Mirror the rendered HTML page.
         fetch(post["URL"], MIRROR_DIR / f"{base}.html")

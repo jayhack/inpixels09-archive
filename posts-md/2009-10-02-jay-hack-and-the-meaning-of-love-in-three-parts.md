@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/10/02/jay-hack-and-the-meaning-of-lov
 author: "Jay"
 tags: ["Love", "affection", "gestures", "open air"]
 categories: ["Uncategorized"]
+comment_count: 4
 ---
 
 # Jay Hack, and the Meaning of Love, in three parts:
@@ -49,3 +50,40 @@ I still trade email with my previous Japanese host mother, too, over an ocean aw
 lately, I’ve realized that touching somebody may be superfluous. I’ve realized that touching is just another use for time you might spend in silence, looking at their face. And I can feel comfortable just looking and having few words to say, these days.
 
 I think I’ve started reaching out to people in a whole new way.
+
+---
+
+## Comments (4)
+
+**rosie** — 2009-10-12
+
+> Jay – I’ve been away from your blog for awhile – this is amazing stuff – with some editing you could send it in to the NYtimes sunday mag – last page or even modern love (but you might need to be somewhat in love for it to qualify)  
+>
+> xoxox  
+>
+> aunt rz
+
+**intanettohack** — 2009-10-13
+
+> hey rosie!
+>
+> thanks for the love, and those xs and os at the bottom there. im really glad you like it! whats the news with Grace and her Isreal excursion, by the way? do we know when she leaves yet?  
+>
+> always good to hear from the fam. you cant see me, but im bowing, diligently.  
+>
+> c(-_-)d  
+>
+> xoxox, much love-  
+>
+> -Jay
+
+**grace** — 2009-10-28
+
+> hey jay.  im officially accepted into the israel program and i leave january 25th.  your blog is wonderful, that’s all there is to say.  super depressed that i wont see you this thanksgiving but im glad that you’re in japan because its sounds like such a unique experience.  love, grace
+
+**intanettohack** — 2009-10-29
+
+> Hey Grace! good news about the isreal program, sounds like it will be a real blast. glad you like the blog! any chance you are thinking of putting one up while abroad? love to see it! lemme know, enjoy the fall weather, feel the love-
+>
+> -J
+

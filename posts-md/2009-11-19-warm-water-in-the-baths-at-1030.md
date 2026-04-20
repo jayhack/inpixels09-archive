@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/11/19/warm-water-in-the-baths-at-1030
 author: "Jay"
 tags: ["hot baths", "naohiro", "onsen", "wooden sandals", "\u6e29\u6cc9"]
 categories: ["Uncategorized"]
+comment_count: 0
 ---
 
 # Warm Water in the Baths at 10:30

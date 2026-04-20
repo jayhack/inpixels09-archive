@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/10/18/my-journey-towards-emoticons/
 author: "Jay"
 tags: ["communication", "emoticons", "japan alps", "weight lifting"]
 categories: ["Uncategorized"]
+comment_count: 0
 ---
 
 *Originally posted 2009-10-18 at <https://inpixels09.wordpress.com/2009/10/18/my-journey-towards-emoticons/>*

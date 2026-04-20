@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2010/01/09/%e6%b6%88%e6%bb%85%e3%81%ae%e3%
 author: "Jay"
 tags: ["departure", "disappearance", "japan and 5.5 months seem to have gone by not quite as i had ever planned but getting there"]
 categories: ["Uncategorized"]
+comment_count: 0
 ---
 
 *Originally posted 2010-01-09 at <https://inpixels09.wordpress.com/2010/01/09/%e6%b6%88%e6%bb%85%e3%81%ae%e3%82%84%e3%82%8a%e6%96%b9%e3%80%80-how-to-disappear-completely/>*

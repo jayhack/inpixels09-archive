@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/12/18/%e3%83%9d%e3%82%b1%e3%83%a2%e3%
 author: "Jay"
 tags: ["a wild sheep chase", "insomnia strikes... again", "librarian", "pokemon on trains", "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u30ba\u3001pokemon"]
 categories: ["Uncategorized"]
+comment_count: 0
 ---
 
 # ポケモン　－　found the poison, drank it.

@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/10/06/my-style-of-humor/
 author: "Jay"
 tags: ["cultural differences", "humor", "i lost 30 pounds in three weeks! 2 simple rules!", "steroids- danger or fun wacky party favor?"]
 categories: ["Uncategorized"]
+comment_count: 1
 ---
 
 *Originally posted 2009-10-06 at <https://inpixels09.wordpress.com/2009/10/06/my-style-of-humor/>*
@@ -77,3 +78,12 @@ My humor and theirs is very, very different. to be honest, i couldnt explain to 
 what do we think is funny?  
 
 I`m glad that I’m at least laughing, even if its not at the same time as everyone else.
+
+---
+
+## Comments (1)
+
+**janhack** — 2009-10-06
+
+> I’m glad you are laughing too!  Sounds like a terrific TV show, sorry I’m missing it.
+

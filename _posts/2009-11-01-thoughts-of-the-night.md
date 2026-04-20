@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/11/01/thoughts-of-the-night/
 author: "Jay"
 tags: ["car crashes", "departure", "dogeza", "host family", "suicide", "thoughts"]
 categories: ["Uncategorized"]
+comment_count: 2
 ---
 
 *Originally posted 2009-11-01 at <https://inpixels09.wordpress.com/2009/11/01/thoughts-of-the-night/>*
@@ -45,3 +46,16 @@ my little brother turned 13, and i called my parents to send some english spider
 after my area rep left, there was tranquility, peace, in the room. it was a soft way to bring things to a close, after a difficult while. maybe she saw it on my face. my mother and i sat on our knees and calfs on the floor, in silence. i looked at her and told her i still wanted to be in contact, still wanted to see her every now and then, i would be here for a while; i still love her, i love them all, but things didnt quite work out. we exchanged apologies, and her eyes closed a bit and she solemnly, quietly tucked her lips inward. 
 
 i told her that jinsei, our lives, are long, and her glance floated slowly down from my eyes, like a fall leaf that might float down and come to rest at your feet.
+
+---
+
+## Comments (2)
+
+**D** — 2009-11-11
+
+> What’s the difference between Kitamatsumoto, Matsumoto and Nishimatsumoto??
+
+**Jay** — 2009-11-11
+
+> kita = north, nishi = west, minami = south and higashi = west- its just the districts. cities here are so spread out (takes up the entire valley!) that they have to section them out into smaller, ann arbor-sized districts. im right in the middle, straight up matsumoto.
+

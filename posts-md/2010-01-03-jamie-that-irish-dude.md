@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2010/01/03/jamie-that-irish-dude/
 author: "Jay"
 tags: ["afternoon delight", "ireland", "jamie"]
 categories: ["Uncategorized"]
+comment_count: 0
 ---
 
 # Jamie, that irish dude

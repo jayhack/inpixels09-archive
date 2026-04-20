@@ -88,7 +88,9 @@ curl -sS "https://public-api.wordpress.com/rest/v1.1/sites/$HOST" -o posts-json/
 curl -sS "https://public-api.wordpress.com/rest/v1.1/sites/$HOST/posts/?number=100&fields=ID,date,modified,title,URL,slug,excerpt,content,tags,categories,author" -o posts-json/all-posts.json
 curl -sS "https://public-api.wordpress.com/rest/v1.1/sites/$HOST/tags?number=200" -o posts-json/tags.json
 curl -sS "https://public-api.wordpress.com/rest/v1.1/sites/$HOST/categories?number=200" -o posts-json/categories.json
+curl -sS "https://public-api.wordpress.com/rest/v1.1/sites/$HOST/comments?number=100" -o posts-json/all-comments.json
 python3 scripts/build_archive.py
+python3 scripts/build_jekyll.py
 ```
 
 ## Posts

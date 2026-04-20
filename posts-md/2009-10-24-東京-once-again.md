@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/10/24/%e6%9d%b1%e4%ba%ac-once-again/
 author: "Jay"
 tags: ["Tokyo", "asian christianity", "cars", "motor show"]
 categories: ["Uncategorized"]
+comment_count: 0
 ---
 
 # 東京, once again

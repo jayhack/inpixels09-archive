@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2010/01/01/festivitiesthe-legacy-of-yoko-o
 author: "Jay"
 tags: ["japanese people regretting things", "new years", "oshougatsu", "toshikoshi", "yoko ono", "\u5e74\u8d8a\u3057\u3001\u304a\u6b63\u6708"]
 categories: ["Uncategorized"]
+comment_count: 1
 ---
 
 # festivities/the legacy of yoko ono
@@ -35,3 +36,14 @@ after seeing 2012 and the trailer for “alvin and the chipmunks, the squeakquel
 happy new year, cheers-
 
 -J
+
+---
+
+## Comments (1)
+
+**Vini Jaquery** — 2010-01-09
+
+> Happy New Year to you too man.  
+>
+> Your blog is pretty cool
+

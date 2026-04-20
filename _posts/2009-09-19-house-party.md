@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/09/19/43/
 author: "Jay"
 tags: ["elders", "grandfather", "house party", "mist", "sage"]
 categories: ["Uncategorized"]
+comment_count: 0
 ---
 
 *Originally posted 2009-09-19 at <https://inpixels09.wordpress.com/2009/09/19/43/>*

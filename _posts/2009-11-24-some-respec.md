@@ -6,6 +6,7 @@ url: https://inpixels09.wordpress.com/2009/11/24/some-respec/
 author: "Jay"
 tags: ["my hair", "naohiros hair"]
 categories: ["Uncategorized"]
+comment_count: 0
 ---
 
 *Originally posted 2009-11-24 at <https://inpixels09.wordpress.com/2009/11/24/some-respec/>*
